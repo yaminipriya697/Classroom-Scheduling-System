@@ -1,4 +1,4 @@
-Welcome to the Classroom Website 
+**Welcome to the Classroom Website **
 
 A website that lets you write about all your classes at one place. You can also search by typing the name of the teacher if you have so many classes to take.
 
