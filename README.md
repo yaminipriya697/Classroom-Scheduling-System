@@ -4,9 +4,8 @@ A website that lets you write about all your classes at one place. You can also 
 
 #### Used Technologies:-
 
-HTML5
-CSS3
-JavaScript
+HTML5, CSS3, Java Script
+
 
 #### Use of this Project:-
 
