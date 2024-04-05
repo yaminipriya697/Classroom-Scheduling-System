@@ -1,0 +1,102 @@
+/* style.css */
+
+*{
+  margin:0px;
+  padding:0px;
+}
+body {
+    background:url(https://thumbs.dreamstime.com/b/group-school-kids-raising-hands-classroom-education-elementary-learning-people-concept-teacher-sitting-57655971.jpg);
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center;
+  
+  }
+  .nav
+  {
+    background-color:burlywood;
+    color:aliceblue;
+    padding:10px 0px 10px 10px;
+  }
+  
+  .container {
+    max-width: 400px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa; 
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    color:lightsalmon;
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #007bff; 
+    color: #fff; 
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color:burlywood;
+  }
+  
+  #studentLogin {
+    background-color: #f8f9fa; 
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    color:#333; 
+  }
+  
+  #studentLoginForm .form-control {
+    border-color:#333; 
+    
+  }
+  .action_btn {
+    display: flex;
+  }
+  
+  .btn {
+    margin-right: 40px; 
+    margin-left: 40px; 
+    padding: 10px 20px;
+    background-color:burlywood; 
+    color: white; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3; 
+  }
+  
